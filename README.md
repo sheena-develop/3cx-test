@@ -362,6 +362,7 @@
 
 > [!TIP]
 > 電話がかからない場合、以下を行えばかかるようになることがあります
+> 1. 3CX管理コンソールのイベントログでDNSエラーがある場合、ホストPCのDNSを見直してください
 >
 > 1. 再起動をしてください
 > 2. 「3CX Management Console」の設定した SIP Trunk の「Authentication」の「Type of Authentication」を「Register/Account based」から「Do not require - IP Based」に変更して保存
